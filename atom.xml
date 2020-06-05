@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ericquill.github.io/</id>
-    <title>Gridea</title>
-    <updated>2020-06-04T14:30:52.088Z</updated>
+    <title>Sexobm</title>
+    <updated>2020-06-05T15:08:00.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ericquill.github.io/"/>
     <link rel="self" href="https://ericquill.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://ericquill.github.io/images/avatar.png</logo>
     <icon>https://ericquill.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Sexobm</rights>
     <entry>
-        <title type="html"><![CDATA[Second Day of blogging]]></title>
+        <title type="html"><![CDATA[Third day for blogging]]></title>
+        <id>https://ericquill.github.io/post/third-blog/</id>
+        <link href="https://ericquill.github.io/post/third-blog/">
+        </link>
+        <updated>2020-06-05T13:55:24.000Z</updated>
+        <content type="html"><![CDATA[<p>It's another draining day, there are more and more work with diminishing payment, in order to decrease human cost, company asked us to work only 4 days per week, salary get 10% down, the rise in price of daily life made situation harder, almost all salary has been spent on food, traffic, house rent, no extra money for other things, it's beyond imagination what would happen if I lost the job, which is easy to come up, situation of economy is too bad now, both internal one and exterior one, my world is the same.</p>
+<p>However the moment when i got out from the bus, I was shocked, it's so beautiful, there was a special area in the dark sky, clould with fuchsia color, like the color from dream, things like this named &quot;Xiang Rui&quot; in ancient China, means something great is on the way, life of people could get better soon.</p>
+<p>It's my lucky day, I was so happy and made the wish in the first time: I hope the virus of COVID-19 could die as soon as possible, people got to back to work, and then they have money to buy toys from me.</p>
+<p><img src="https://ericquill.github.io//post-images/1591368175857.jpg" alt="" loading="lazy"><br>
+<img src="https://ericquill.github.io//post-images/1591368284355.jpg" alt="" loading="lazy"><br>
+<img src="https://ericquill.github.io//post-images/1591368298173.jpg" alt="" loading="lazy"><br>
+<img src="https://ericquill.github.io//post-images/1591368305357.jpg" alt="" loading="lazy"></p>
+<blockquote>
+<h2 id="may-be-i-can-get-rich-in-this-year-right">May be I can get rich in this year, right?</h2>
+<figure data-type="image" tabindex="1"><img src="https://ericquill.github.io//post-images/1591368185026.jpg" alt="" loading="lazy"></figure>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second day of blogging]]></title>
         <id>https://ericquill.github.io/post/second-day-of-blogging/</id>
         <link href="https://ericquill.github.io/post/second-day-of-blogging/">
         </link>
