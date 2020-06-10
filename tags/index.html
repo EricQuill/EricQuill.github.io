@@ -9,7 +9,7 @@
 <meta name="description" content="温故而知新">
 <meta name="theme-color" content="#000">
 <title>Sexobm</title>
-<link rel="shortcut icon" href="/favicon.ico?v=1591796253589">
+<link rel="shortcut icon" href="/favicon.ico?v=1591797786224">
 <link rel="stylesheet" href="/media/css/gemini.css">
 <link rel="stylesheet" href="/media/fonts/font-awesome.css">
 <link
@@ -35,6 +35,16 @@
   onload="renderMathInElement(document.body);"></script>
 
 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127179432-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127179432-2');
+</script>
 
 
 
@@ -90,7 +100,7 @@
               
               
                 <a href="/archives/" target="_self">
-                  <i class="fa fa-archive"></i> 归档
+                  <i class="fa fa-archive"></i> ARCHIVES
                 </a>
               
             </li>
@@ -103,7 +113,7 @@
               
               
                 <a href="/tags/" target="_self">
-                  <i class="fa fa-tags"></i> 标签
+                  <i class="fa fa-tags"></i> TAGS
                 </a>
               
             </li>
@@ -116,7 +126,7 @@
               
               
                 <a href="/post/about/" target="_self">
-                  <i class="fa fa-user"></i> 关于
+                  <i class="fa fa-user"></i> ABOUT
                 </a>
               
             </li>
@@ -126,7 +136,7 @@
               <li class="nav-item ">
                 <a href="/friends/" target="_self">
                   
-                    <i class="fa fa-address-book"></i> 友链
+                    <i class="fa fa-address-book"></i> LINKS
                   
                 </a>
               </li>
@@ -1037,7 +1047,7 @@
   }
 
   // 链接跳转
-  let newWindow = 'false'
+  let newWindow = 'true'
   if (newWindow === 'true') {
     let links = document.querySelectorAll('.post-body a')
     links.forEach(item => {
@@ -1291,7 +1301,7 @@
 
 <input hidden id="copy" />
 <script>
-  let language = '';
+  let language = 'en';
   if (language !== '') {
     let map = new Map();
     if (language === 'en') {
